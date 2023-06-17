@@ -4,7 +4,9 @@ Este repositório contém o código-fonte e a documentação do projeto desenvol
 
 ## Descrição
 
-O projeto consiste em uma aplicação móvel desenvolvida em Flutter, uma estrutura de desenvolvimento de aplicativos multiplataforma criada pelo Google. A aplicação tem como propósito fornecer uma interface amigável e intuitiva para equipes de desenvolvimento que trabalham em ambientes globalmente distribuídos, permitindo a colaboração eficiente e efetiva. Apresentando as principais práticas ágeis em ambientes globalmente distribuídos.
+O projeto consiste em uma aplicação móvel desenvolvida em Flutter, uma estrutura de desenvolvimento de aplicativos multiplataforma criada pelo Google. A aplicação tem como propósito fornecer uma interface amigável e intuitiva para equipes de desenvolvimento que trabalham em ambientes globalmente distribuídos, permitindo a colaboração eficiente e efetiva. No contexto do desenvolvimento ágil, o foco está em entregar valor de forma iterativa e incremental aos clientes. Isso é feito através do estabelecimento de metas claras e priorização das atividades no backlog do produto. Por sua vez, a metodologia OKR incentiva a definição de objetivos desafiadores e mensuráveis, juntamente com resultados-chave que indicam o progresso em direção a esses objetivos.
+
+Uma das conexões entre OKR e desenvolvimento ágil é o alinhamento de objetivos. Ambas as abordagens buscam garantir que todos os membros da equipe estejam trabalhando em direção a objetivos comuns, o que promove o alinhamento estratégico e a colaboração efetiva. Além disso, ambas as metodologias valorizam o aprendizado contínuo e a adaptação às mudanças, permitindo que as equipes respondam rapidamente a novas informações e priorizem suas atividades de acordo com as necessidades atuais.
 
 ## Requisitos de Desenvolvimento
 
