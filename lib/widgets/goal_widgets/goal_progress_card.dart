@@ -10,7 +10,7 @@ import '../../extensions/widget_extension.dart';
 import '../../models/goal_model.dart';
 import '../../providers/goal_provider.dart';
 import '../../routes/app_router.dart';
-import '../habit_widgets/custom_snackbar.dart';
+import '../custom_snackbar.dart';
 import '../scaled_text.dart';
 import 'circular_arc_progress.dart';
 

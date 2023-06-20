@@ -1,6 +1,6 @@
 class AppStrings {
   //general
-  static const String appName = 'Done App';
+  static const String appName = 'Management Agile App';
   static const String save = 'Save';
   static const String cancel = 'Cancel';
   static const String delete = 'Delete';
@@ -19,14 +19,14 @@ class AppStrings {
   static const String snackBarSortByChecked = 'Sorted by checked';
   static const String snackBarSortByUnchecked = 'Sorted by unchecked';
   //habits
-  static const String habitHintText = 'Exercise, Work, etc';
+  static const String habitHintText = 'Writte your task';
   static const String habitLabelText = 'Habit Title';
-  static const String habitDialogText = 'Goal time for this habit';
+  static const String habitDialogText = 'Goal time for this task';
   //goal - tasks
   static const String goalAppBarTitle = 'Create your goal';
   static const String task = 'Tasks';
   static const String quickTag = 'Quick tag';
-  static const String goalHintText = 'Meditate, Workout, etc';
+  static const String goalHintText = 'Writte your Goal';
   static const String goalTextFieldTitle = 'Set your goal title';
   static const String goalTextFieldDesc = 'Need a description?';
   static const String description = 'Description';

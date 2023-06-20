@@ -1,10 +1,12 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.agile_global_software_development">
+    package="com.example.AgileApp">
    <application
-        android:label="agile_global_software_development"
+        android:label="Agile App"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
+            android:showWhenLocked="true"
+            android:turnScreenOn="true"
             android:name=".MainActivity"
             android:exported="true"
             android:launchMode="singleTop"
