@@ -14,7 +14,7 @@ Uma das conexões entre OKR e desenvolvimento ágil é o alinhamento de objetivo
 ## Widget Tree
 <img width="762" alt="WidgetTree" src="https://github.com/IuryTavares/agileGlobalSoftwareDevelopment/assets/39784738/22706cf3-303e-4b11-8c89-534d543cc6d8">
 
-##Link da aplicação
+## Link da aplicação
 https://play.google.com/console/u/0/developers/8697071880613707893/app/4974210085132279387/app-bundle-explorer?artifactId=4859828779396886547&tab=downloads
 
 ## Requisitos de Desenvolvimento
