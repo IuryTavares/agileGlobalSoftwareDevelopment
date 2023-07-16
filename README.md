@@ -10,6 +10,7 @@ Uma das conexões entre OKR e desenvolvimento ágil é o alinhamento de objetivo
 
 ## Logo da empresa
 ![image](https://github.com/IuryTavares/agileGlobalSoftwareDevelopment/assets/39784738/8c7cb5d2-ba11-45d9-83e3-4d79c41f4b53)
+
 CA WIE - Cience Aplication With Inteligence and Effort
 
 ## Link da Apresentação
