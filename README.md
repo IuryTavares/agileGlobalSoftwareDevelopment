@@ -8,6 +8,12 @@ O projeto consiste em uma aplicação móvel desenvolvida em Flutter, uma estrut
 
 Uma das conexões entre OKR e desenvolvimento ágil é o alinhamento de objetivos. Ambas as abordagens buscam garantir que todos os membros da equipe estejam trabalhando em direção a objetivos comuns, o que promove o alinhamento estratégico e a colaboração efetiva. Além disso, ambas as metodologias valorizam o aprendizado contínuo e a adaptação às mudanças, permitindo que as equipes respondam rapidamente a novas informações e priorizem suas atividades de acordo com as necessidades atuais.
 
+## Diagrama de telas
+![diagramaTela](https://github.com/IuryTavares/agileGlobalSoftwareDevelopment/assets/39784738/80f6ce65-e831-4903-8e4f-5d55047bbb2d)
+
+## Widget Tree
+<img width="762" alt="WidgetTree" src="https://github.com/IuryTavares/agileGlobalSoftwareDevelopment/assets/39784738/22706cf3-303e-4b11-8c89-534d543cc6d8">
+
 ## Requisitos de Desenvolvimento
 
 - Flutter SDK 2.2.3 ou superior
